@@ -1,0 +1,35 @@
+#container {
+    position: relative;
+    top: 4cm;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-image: url(./images/tim-cooper-DSgjjsjnvQQ-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 9cm;
+    padding-top: 2cm;
+    max-height: 2cm;
+    background-position: center;
+}
+#overview {
+    border: 1cm;
+    max-width: 12cm;
+    margin-left: 33cm;
+    text-align: right;
+    margin-top: -2cm;
+    color: honeydew;
+    font-size: 35px;
+}
+
+#master {
+    margin-top: 1cm;
+    color: rgb(202, 116, 4);
+    display: flex;
+    text-align: left;
+    font-size: 1cm;
+    margin-top: -6cm;
+    position: fixed;
+    margin-left: 2cm;
+}
+
